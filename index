@@ -3,7 +3,74 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>LexDocs — 40 Professional Legal Templates</title>
+
+<!-- PRIMARY SEO -->
+<title>LexDocs — Attorney-Drafted Legal Templates | Wills, Contracts, Leases & More</title>
+<meta name="description" content="40 professional legal templates drafted by a licensed California attorney with 27 years of experience. NDAs, wills, leases, power of attorney, child custody, and more. Starting at $7. Instant download.">
+<meta name="keywords" content="legal templates, legal documents, NDA template, will template, lease agreement, power of attorney, child custody agreement, independent contractor agreement, eviction notice, promissory note, LLC operating agreement, prenuptial agreement, living will, healthcare power of attorney, HIPAA authorization, bill of sale, freelance contract, attorney drafted, legal forms">
+<meta name="author" content="LexDocs">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://lexdocs.org">
+
+<!-- OPEN GRAPH (Facebook, LinkedIn) -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://lexdocs.org">
+<meta property="og:title" content="LexDocs — Attorney-Drafted Legal Templates Starting at $7">
+<meta property="og:description" content="40 professional legal templates drafted by a licensed California attorney with 27 years of experience. Wills, contracts, leases, health directives & more. Instant download.">
+<meta property="og:image" content="https://lexdocs.org/lexdocs-preview.jpg">
+<meta property="og:site_name" content="LexDocs">
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://lexdocs.org">
+<meta name="twitter:title" content="LexDocs — Attorney-Drafted Legal Templates Starting at $7">
+<meta name="twitter:description" content="40 professional legal templates drafted by a licensed California attorney with 27 years of experience. Instant download.">
+<meta name="twitter:image" content="https://lexdocs.org/lexdocs-preview.jpg">
+
+<!-- SCHEMA MARKUP (Google Rich Results) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Store",
+  "name": "LexDocs",
+  "url": "https://lexdocs.org",
+  "description": "Attorney-drafted legal templates starting at $7. 40 professional documents covering business, real estate, estate planning, health directives, family law, employment, landlord toolkit, and freelancer contracts.",
+  "founder": {
+    "@type": "Person",
+    "jobTitle": "Licensed Attorney",
+    "description": "California licensed attorney with 27 years of legal experience"
+  },
+  "priceRange": "$7 - $149",
+  "currenciesAccepted": "USD",
+  "paymentAccepted": "Credit Card, PayPal",
+  "areaServed": "United States",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Legal Templates",
+    "itemListElement": [
+      {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Non-Disclosure Agreement Template"}, "price": "12.00", "priceCurrency": "USD"},
+      {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Last Will and Testament Template"}, "price": "19.00", "priceCurrency": "USD"},
+      {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Residential Lease Agreement Template"}, "price": "14.00", "priceCurrency": "USD"},
+      {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Durable Power of Attorney Template"}, "price": "19.00", "priceCurrency": "USD"},
+      {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "LLC Operating Agreement Template"}, "price": "19.00", "priceCurrency": "USD"},
+      {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Child Custody Agreement Template"}, "price": "19.00", "priceCurrency": "USD"},
+      {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Living Will Advance Directive Template"}, "price": "19.00", "priceCurrency": "USD"},
+      {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Healthcare Power of Attorney Template"}, "price": "19.00", "priceCurrency": "USD"},
+      {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Eviction Notice Template"}, "price": "12.00", "priceCurrency": "USD"},
+      {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Independent Contractor Agreement Template"}, "price": "14.00", "priceCurrency": "USD"}
+    ]
+  },
+  "sameAs": [
+    "https://lexdocs26.gumroad.com",
+    "https://www.youtube.com/@lexdocsorg",
+    "https://www.instagram.com/lexdocs",
+    "https://www.facebook.com/lexdocs",
+    "https://www.linkedin.com/company/lexdocs",
+    "https://www.tiktok.com/@lexdocs"
+  ]
+}
+</script>
+
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
   :root { --ink:#0e0c0a; --parchment:#f5f0e8; --cream:#faf8f3; --gold:#c9a84c; --gold-light:#e8d49a; --border:#d4c9b0; }
